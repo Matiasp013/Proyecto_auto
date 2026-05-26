@@ -17,7 +17,9 @@ Ejecutar por consola:
 
 pip install -r requirements.txt
 
-Ejecutar los test por consola:
+## Ejecucion de tests
+
+Ejecucion por consola: 
 
 pytest -v 
 
