@@ -16,3 +16,12 @@
 Ejecutar por consola:
 
 pip install -r requirements.txt
+
+Ejecutar los test por consola:
+
+pytest -v 
+
+Ejecutar un test en especifico:
+
+Ejemplo: 
+pytest tests/test_login.py
