@@ -11,4 +11,8 @@
 - Pytest
 - WebDriver Manager
 
-## Instalacion 
+## Instalacion de dependencias 
+
+Ejecutar por consola:
+
+pip install -r requirements.txt
